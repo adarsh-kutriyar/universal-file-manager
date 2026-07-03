@@ -1,0 +1,36 @@
+# --------------------
+# Node.js (Backend)
+# --------------------
+backend/node_modules/
+backend/.env
+backend/.env.*
+backend/logs/
+backend/*.log
+
+# --------------------
+# React Native
+# --------------------
+mobile/node_modules/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/local.properties
+mobile/ios/build/
+mobile/ios/Pods/
+mobile/.env
+mobile/.env.*
+
+# --------------------
+# Mac Agent (Node.js)
+# --------------------
+mac-agent/node_modules/
+mac-agent/.env
+mac-agent/.env.*
+
+# --------------------
+# General
+# --------------------
+.DS_Store
+.vscode/
+coverage/
+dist/
+*.log

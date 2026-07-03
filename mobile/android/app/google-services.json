@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815114567750",
+    "project_id": "universalfilemanager",
+    "storage_bucket": "universalfilemanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815114567750:android:deb10080545a92c7ceca47",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-6Mg_TAI1TqbM9egAfDUpnZmPkVLpPBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
