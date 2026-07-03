@@ -85,6 +85,7 @@ Mac Agent
 - Android UI
 - File Viewer
 - MVC Backend
+- cross platform file access(access your files of any devices from any device) (ongoing)
 
 ### In Progress
 
