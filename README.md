@@ -10,6 +10,7 @@ A cross-platform file management application that enables users to browse, manag
 
 - User Authentication
 - Device Registration
+- All of your devices will be listed on homescreen
 - Real-time Device Discovery
 - Online/Offline Device Status
 - Android File Browsing
