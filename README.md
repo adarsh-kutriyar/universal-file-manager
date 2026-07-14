@@ -111,6 +111,12 @@ Mac Agent
 
 ---
 
+## 📱 UI Preview
+
+<p align="center">
+  <img src="image.png" alt="Universal File Manager UI Preview" width="100%">
+</p>
+
 ## Author
 
 **Adarsh Kutriyar**
