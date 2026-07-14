@@ -6,6 +6,13 @@ A cross-platform file management application that enables users to browse, manag
 
 ---
 
+## 📱 UI Preview
+
+<p align="center">
+  <img src="image.png" alt="Universal File Manager UI Preview" width="100%">
+</p>
+
+
 ## Features
 
 - User Authentication
@@ -111,11 +118,6 @@ Mac Agent
 
 ---
 
-## 📱 UI Preview
-
-<p align="center">
-  <img src="image.png" alt="Universal File Manager UI Preview" width="100%">
-</p>
 
 ## Author
 
